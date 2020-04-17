@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathTool</string>
+    <string name="ap">计算器</string>
+    <string name="bt">+</string>
+    <string name="jian">-</string>
+    <string name="cheng">*</string>
+    <string name="chu">/</string>
+    <string name="jiashu">请输入计数...</string>
+    <string name="bei">请输入被计数...</string>
+    <string name="nu">null</string>
+    <string name="v">第2版</string>
+    <string name="yi">1</string>
+    <string name="er">2</string>
+    <string name="san">3</string>
+    <string name="si">4</string>
+    <string name="wu">5</string>
+    <string name="liu">6</string>
+    <string name="qi">7</string>
+    <string name="ba">8</string>
+    <string name="jiu">9</string>
+    <string name="ling">0</string>
+    <string name="tuige">←</string>
+</resources>
