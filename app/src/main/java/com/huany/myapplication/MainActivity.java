@@ -271,9 +271,9 @@ public class MainActivity extends AppCompatActivity {
                     double o = valueOf(beijiashu.getText().toString());
                     double c = i / o;
                     if(i == 0) {
-                        Toast.makeText(MainActivity.this, "出错(/0异常)", Toast.LENGTH_LONG).show();
+                        Toast.makeText(MainActivity.this, "出错(/0的异常)", Toast.LENGTH_LONG).show();
                     }else if(o == 0){
-                        Toast.makeText(MainActivity.this, "出错(/0异常)", Toast.LENGTH_LONG).show();
+                        Toast.makeText(MainActivity.this, "出错(/0的异常)", Toast.LENGTH_LONG).show();
                     }else{
                         daan.setText(String.valueOf(c));
                     }
